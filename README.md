@@ -243,14 +243,7 @@ This project satisfies all assignment requirements:
 P. Pranav Sai
 
 AI Engineering Assignment Project
-```
 
-Save:
-
-```
-CTRL + O
-ENTER
-CTRL + X
 ```
 
 
