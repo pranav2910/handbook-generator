@@ -244,7 +244,3 @@ P. Pranav Sai
 
 AI Engineering Assignment Project
 
-```
-
-
-
