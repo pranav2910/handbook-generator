@@ -253,15 +253,5 @@ ENTER
 CTRL + X
 ```
 
----
 
-## Then commit README
-
-```bash
-git add README.md
-git commit -m "Added README"
-git push
-```
-
----
 
