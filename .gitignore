@@ -1,0 +1,19 @@
+# secrets
+.env
+
+# python
+venv/
+__pycache__/
+*.pyc
+
+# streamlit
+.streamlit/
+
+# rag storage (generated)
+rag_storage/
+
+# OS
+.DS_Store
+
+# accidental local venv / python env folder
+source/
